@@ -1,0 +1,9 @@
+.foto-perfil{
+    border-bottom: 100%;
+    max-block-size: 200px;
+    border:1px solid black;
+}
+
+body{
+    background-color: #f7f7f7;
+}
